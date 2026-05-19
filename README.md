@@ -55,5 +55,18 @@ How to Run This Project
 - Total Volume = SUM(StockData[Volume])
 - PL Percentage = DIVIDE((AVG Close - AVG Open), AVG Open, 0) * 100
 
+Project Team
+| Name | PRN |
+|------|-----|
+| Gouri Mundada | 1251130102 |
+| Purva Murai | 1251130033 |
+
+ College Details
+- College:Vishwakarma Institute of Technology, Pune
+- Department: Engineering Science and Humanities
+- Class: FY | Division D | Batch 2
+- Guide: Prof. Poonam Pawar
+- Academic Year: 2025-2026
+
 
 
