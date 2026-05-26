@@ -1,5 +1,5 @@
  ₿ CryptoVision — Bitcoin Market Analysis Dashboard
-![Dashboard](f2.png)
+![Dashboard](Final_Dashboard.png)
 
  Project Overview
 A Live Bitcoin Market Analysis Dashboard built 
